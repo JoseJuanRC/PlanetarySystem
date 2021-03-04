@@ -25,7 +25,7 @@ Este proyecto tiene como objetivo desarrollar un prototipo que muestre un sistem
 - Cada atributo lo controlamos con un array distinto (añadir un planeta nuevo sería añadir una nueva posición al array). Las características de nuestros planetas son:
 
 |Nombre|Ángulo Inicial (posición)|Distancia al origen (%)|Velocidad del planeta|Ángulo Inicial (rotación)| Velocidad de rotación|Tamaño del planeta
-|---|---|---|---|---|---|---|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
 | Neptune  |  100 | 0.25  | 0.25  | 100  | 0.5  |  20 |
 | Jupiter  |  20 | 0.34  | 0.1  | 20  | -1.5  |  30  |
 | Earth  |  200 | 0.4  | 0.2  |  200 | 1  | 25  |
@@ -45,7 +45,7 @@ Este proyecto tiene como objetivo desarrollar un prototipo que muestre un sistem
 - Cada atributo lo controlamos con un array distinto (añadir una luna nueva sería añadir una nueva posición al array). Las características de nuestras lunas son:
 
 |Planeta al que pertenece| Dintancia al punto de rotación| Velocidad Y | Ángulo Inicial Y|Velocidad X| Ángulo Inicial X|Tamaño|
-|---|---|---|---|---|---|---|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
 | Neptune  |  20 | 0.3  | 0  | -0.4  | 40  | 7 | 
 | Jupiter  |  35 | 0.5  | 60  | 0.25  | 120  | 12 | 
 | Earth  |  28 | 0.1  | 20  |  -0.4 | 0  | 5 | 
