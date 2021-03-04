@@ -42,7 +42,7 @@ Este proyecto tiene como objetivo desarrollar un prototipo que muestre un sistem
 - Tendrá 2 rotaciones con centro en el planeta al que pertenece:
     - Respecto al eje X.
     - Respecto al eje Y.
-- Cada atributo lo controlamos con un array distinto (añadir un planeta nuevo sería añadir una nueva posición al array). Las características de nuestros planetas son:
+- Cada atributo lo controlamos con un array distinto (añadir una luna nueva sería añadir una nueva posición al array). Las características de nuestras lunas son:
 
 |Planeta al que pertenece| Dintancia al punto de rotación| Velocidad Y | Ángulo Inicial Y|Velocidad X| Ángulo Inicial X|Tamaño|
 |---|---|---|---|---|---|---|
